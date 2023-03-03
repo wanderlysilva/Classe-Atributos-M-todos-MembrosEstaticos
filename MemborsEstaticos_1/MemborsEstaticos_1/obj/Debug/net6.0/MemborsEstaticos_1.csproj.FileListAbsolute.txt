@@ -1,0 +1,15 @@
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\MemborsEstaticos_1.csproj.AssemblyReference.cache
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\MemborsEstaticos_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\MemborsEstaticos_1.AssemblyInfoInputs.cache
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\MemborsEstaticos_1.AssemblyInfo.cs
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\MemborsEstaticos_1.csproj.CoreCompileInputs.cache
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\bin\Debug\net6.0\MemborsEstaticos_1.exe
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\bin\Debug\net6.0\MemborsEstaticos_1.deps.json
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\bin\Debug\net6.0\MemborsEstaticos_1.runtimeconfig.json
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\bin\Debug\net6.0\MemborsEstaticos_1.dll
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\bin\Debug\net6.0\MemborsEstaticos_1.pdb
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\MemborsEstaticos_1.dll
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\refint\MemborsEstaticos_1.dll
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\MemborsEstaticos_1.pdb
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\MemborsEstaticos_1.genruntimeconfig.cache
+C:\DEV-C#\MemborsEstaticos_1\MemborsEstaticos_1\obj\Debug\net6.0\ref\MemborsEstaticos_1.dll

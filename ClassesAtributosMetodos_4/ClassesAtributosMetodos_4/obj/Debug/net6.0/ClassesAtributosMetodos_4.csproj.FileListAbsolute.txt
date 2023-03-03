@@ -1,0 +1,15 @@
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\bin\Debug\net6.0\ClassesAtributosMetodos_4.exe
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\bin\Debug\net6.0\ClassesAtributosMetodos_4.deps.json
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\bin\Debug\net6.0\ClassesAtributosMetodos_4.runtimeconfig.json
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\bin\Debug\net6.0\ClassesAtributosMetodos_4.dll
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\bin\Debug\net6.0\ClassesAtributosMetodos_4.pdb
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\ClassesAtributosMetodos_4.csproj.AssemblyReference.cache
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\ClassesAtributosMetodos_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\ClassesAtributosMetodos_4.AssemblyInfoInputs.cache
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\ClassesAtributosMetodos_4.AssemblyInfo.cs
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\ClassesAtributosMetodos_4.csproj.CoreCompileInputs.cache
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\ClassesAtributosMetodos_4.dll
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\refint\ClassesAtributosMetodos_4.dll
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\ClassesAtributosMetodos_4.pdb
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\ClassesAtributosMetodos_4.genruntimeconfig.cache
+C:\DEV-C#\ClassesAtributosMetodos_4\ClassesAtributosMetodos_4\obj\Debug\net6.0\ref\ClassesAtributosMetodos_4.dll

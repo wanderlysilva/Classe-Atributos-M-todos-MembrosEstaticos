@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClassesAtributosMetodos_5/1.0.0": {
+        "runtime": {
+          "ClassesAtributosMetodos_5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassesAtributosMetodos_5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
